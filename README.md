@@ -1,47 +1,43 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm Fayzan 👋
 
-###
 
-<p align="left">My name is Fayzan and I'm a Web developer from India.</p>
 
-###
+## 🚀 About Me
+Experienced **Software Developer** with 4 years of combined experience in **Web Development**, **Application Management** and **Cloud Migration**. 
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🛠️ Technologies & Tools
 
-<p align="left">📚 I have 4 years of combined experience with web development, management and migration to cloud. <br></p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
-###
 
-<h2 align="left">I work with</h2>
+- **Languages & Frameworks:** Javascript, NodeJs, ReactJs, Perl, Python, Shell
+- **Cloud & DevOps:** AWS (EC2, ELB, Route53), Docker, Kubernetes, Rancher, Consul, Prometheus, Grafana
+- **Databases:** PostgreSQL, MongoDB
+- **Testing & Documentation:** Jest, Swagger Docs, Postman
 
-###
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfza&show_icons=true&locale=en&layout=compact" alt="itsfza" /></p>
+## 📊 GitHub Stats
 
-###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsFZA&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:fayzanali30@gmail.com)
+
+---
+
+*Thanks for visiting my profile! 🚀*
